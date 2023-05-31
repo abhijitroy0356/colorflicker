@@ -1,0 +1,45 @@
+.nav-style{
+    display: flex;
+    justify-content: center;
+}
+#st{
+    margin-left:600px;
+}
+.nv{
+    padding: 10px;
+}
+.mid-section{
+    padding-top:250px;
+    text-align: center;
+}
+button{
+    padding: 10px 30px;
+    font-size: 30px;
+    border: none;
+    background-color: rgb(189, 121, 53);
+    border-radius: 10px;
+    color: whitesmoke;
+}
+h2{
+    margin: 20px;
+    font-size: 50px;
+}
+.answer{
+    margin: 20px;
+    font-size: 50px;
+}
+.damn{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    margin-left:60px;
+    margin-right:60px;
+}
+#hashcode{
+    margin: 20px;
+}
+#hur{
+    background-color: rgb(60, 45, 45);
+    border-radius: 10px;
+    color: aliceblue;
+}
